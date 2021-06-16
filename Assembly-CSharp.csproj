@@ -64,17 +64,19 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunShoot.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\Scripts\EnermySpawner.cs" />
+    <Compile Include="Assets\Bit Gun\Chibi Mummy\Misc\Scripts\buttonControl_script.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
+    <Compile Include="Assets\Bit Gun\Chibi Mummy\Misc\Scripts\CharMovement.cs" />
     <Compile Include="Assets\Scripts\Button.cs" />
     <Compile Include="Assets\Scripts\Gun.cs" />
     <Compile Include="Assets\EffectExamples\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\Scripts\Enermy.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
-    <Compile Include="Assets\Bit Gun\Chibi Mummy\Misc\Scripts\buttonControl_script.cs" />
-    <Compile Include="Assets\Bit Gun\Chibi Mummy\Misc\Scripts\CharMovement.cs" />
+    <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\AllSkyFree\AllSkyFree_Readme.txt" />
      <None Include="Assets\Pixel Font - Tripfive\_README.txt" />
      <None Include="Assets\Bit Gun\Chibi Mummy\readme.txt" />
      <None Include="Assets\JKT_ART\mon_00\etc\MatCap.shader" />
